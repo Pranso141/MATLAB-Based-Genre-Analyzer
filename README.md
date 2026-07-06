@@ -41,7 +41,7 @@ The magic lies in how it turns abstract data into a physical, interactive experi
 ### How the Project Looks
 
 Here is the hardware in its standby state, waiting for the server to be initiated:
-![Hardware Setup](Capture.png)
+![Hardware Setup](Capture.PNG)
 
 ---
 
